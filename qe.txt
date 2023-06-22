@@ -8,7 +8,8 @@
       "playerType":1,
       "boot":false,
       "url":"https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/live.txt",
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name":"直播2",
@@ -16,7 +17,8 @@
       "playerType":1,
       "boot":false,
       "url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt",
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
