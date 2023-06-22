@@ -7,3 +7,4 @@
 | fm.jar |  https://raw.githubusercontent.com/mengzehe/TVBox/main/jar/fm.jar |
 | spider | https://qu.ax/rvNn.jpg |
 | spider2 | http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt |
+| XBiubiuLA4.jar | https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar |
