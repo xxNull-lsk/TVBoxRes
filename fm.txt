@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/spider2;md5;09a472702befaecf58154f50533395fd",
+  "spider": "https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/fm.jar;md5;e9d0a1f5d052c026d60c94d13fc10d65",
   "wallpaper": "https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/wallpaper",
   "lives":[
     {

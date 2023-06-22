@@ -1,13 +1,13 @@
 {
-  "spider": "https://blog.mydata.top/box/spider;md5;f933417180b9bb73fe48f7bbfa3f2f41",
-  "wallpaper": "https://blog.mydata.top/box/wallpaper",
+  "spider": "https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/fty.jar;md5;10eb32e7f059984cba18ee3a8b764470",
+  "wallpaper": "https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/wallpaper",
   "lives":[
     {
       "name":"直播",
       "type":0,
       "playerType":1,
       "boot":false,
-      "url":"https://blog.mydata.top/box/live.txt"
+      "url":"https://ghproxy.com/https://github.com/xxNull-lsk/TVBoxRes/raw/master/live.txt"
     },
     {
       "name":"直播2",
